@@ -16,12 +16,12 @@ Python, Go, SQL Tooling & Security.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Zxc4wonder&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;hide=issues&amp;disable_animations=true&amp;theme=github_dark"
+    srcset="https://github-stats-extended.vercel.app/api?username=Zxc4wonder&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;hide=issues&amp;disable_animations=true&amp;theme=github_dark"
   />
   <img
     alt="Crane.z's public GitHub activity"
     height="160"
-    src="https://github-readme-stats.vercel.app/api?username=Zxc4wonder&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;hide=issues&amp;disable_animations=true&amp;theme=default"
+    src="https://github-stats-extended.vercel.app/api?username=Zxc4wonder&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;hide=issues&amp;disable_animations=true&amp;theme=default"
   />
 </picture>
 
